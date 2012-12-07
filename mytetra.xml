@@ -202,6 +202,14 @@
     </node>
    </node>
   </node>
+  <node id="13548658139jgqauv95y" name="SQL">
+   <node id="1354865826dd7xgvnfev" name="MS SQL 2005">
+    <recordtable>
+     <record dir="1354865917btaqos0yrj" crypt="0" url="http://technet.microsoft.com/ru-ru/library/ms143506%28SQL.90%29.aspx" tags="SQL 2005" author="" id="13548659178camjlq8fp" ctime="20121207113837" name="Установка MS SQL 2005 на Windows 2008 64 bit" file="text.html"/>
+     <record dir="1354865962dsc97mrjve" crypt="0" url="http://technet.microsoft.com/ru-ru/library/ms143293%28v=sql.90%29.aspx" tags="SQL 2005" author="" id="1354865962i07i7mdka2" ctime="20121207113922" name="Как установить 32-разрядную версию служб Reporting Services на 64-разрядный компьютер" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
   <node crypt="1" id="3842" name="w3X91VFTSKeNYE4GH2f/hS/iDNwPdATN">
    <recordtable>
     <record dir="0000003254" crypt="1" url="" tags="" author="" id="3844" ctime="20110315121603" name="xJcgBS8MjCYfmUSyUB/TOk3i5Qn0re3R" file="text.html"/>
