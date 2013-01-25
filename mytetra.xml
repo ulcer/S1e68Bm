@@ -209,11 +209,11 @@
     </node>
    </node>
   </node>
-  <node id="13548658139jgqauv95y" name="SQL">
-   <node id="1354865826dd7xgvnfev" name="MS SQL 2005">
+  <node crypt="1" id="13548658139jgqauv95y" name="mO7s41xBU9GsndPLewmQ+X+/naMfmdP8">
+   <node crypt="1" id="1354865826dd7xgvnfev" name="uFn4zae8gkw3N5Nn/NQgWvuI2vftrDloit12AIP7ZJ8=">
     <recordtable>
-     <record dir="1354865917btaqos0yrj" crypt="0" url="http://technet.microsoft.com/ru-ru/library/ms143506%28SQL.90%29.aspx" tags="SQL 2005" author="" id="13548659178camjlq8fp" ctime="20121207113837" name="Установка MS SQL 2005 на Windows 2008 64 bit" file="text.html"/>
-     <record dir="1354865962dsc97mrjve" crypt="0" url="http://technet.microsoft.com/ru-ru/library/ms143293%28v=sql.90%29.aspx" tags="SQL 2005" author="" id="1354865962i07i7mdka2" ctime="20121207113922" name="Как установить 32-разрядную версию служб Reporting Services на 64-разрядный компьютер" file="text.html"/>
+     <record dir="1354865917btaqos0yrj" crypt="1" url="PrX8zV3WXKjb3XS+0Q+/upiFMAKJMyXcHQfS56BhsSCrClmDR86CSDQzl/XKMkKgIUpARoiPWf8vM93aHeLKn+TbHQFXqoThXdRV2/R7TesaLyytUjaPZw==" tags="LBE37j8dggpwROQDXKdR/lY1Dt0iG9vG" author="" id="13548659178camjlq8fp" ctime="20121207113837" name="x5ETXMSzpAlkMW3yJMkCWPxAwp6tiUHEUWmdpdSiacCKUW9dqJqbWdF0HQc1ANRfEQ8bmYFNCeCfBWMewXCMBbZEo9UclHvR" file="text.html"/>
+     <record dir="1354865962dsc97mrjve" crypt="1" url="xbqM+DpSJz+8ySvsQws/s1zF03HIozx0GUQ35+nAKIBk+uIqvCT7Xebg5XavLFoXqESZJ9aZa7w/SSDhIA97gCwZo1EE3hJKgjyU6MDD3oO/v7zbZiHGvQ==" tags="+/rJZxtCNpCqXjFxKxePlHs9/xJiB74z" author="" id="1354865962i07i7mdka2" ctime="20121207113922" name="yfBHTsSzJnoleAHaXbaPrUro0mjAuqVZCbJqYGrF9EzwkPcS2J/8SYZun5oihJVB1iI0A1Q6doZ+mTqsPPqHlFW2kx+3eSO14lZPxDkMs6B12j1/mjGmVXLAu/il62Z6jN8l8VMFNcz+9XzH2YlBjmyQfR4iYi2mUZ9yKG9A30W3ze3y37RHcnldA8+bmw1iNx3UYx2lxi5tGw7ukcwxKw==" file="text.html"/>
     </recordtable>
    </node>
   </node>
@@ -336,6 +336,13 @@
    <node crypt="1" id="1355318022ky42zij69j" name="fUJnjIyvkP70OKZwQZr6WiPqBdNpj3PADw0fB5FNnDA=">
     <recordtable>
      <record dir="1355318045p95znjg2om" crypt="1" url="SzR5nI4VFkFI0ZE7M6siBfyukNq3zAgXHvHvpMwwN0FyQcjgo6yfuP/8bYSaQQrDRTSu+IGGmYxCJ7kzJs5JQkCCLlBkVlQwsX4muPwp0VI=" tags="" author="" id="1355318045ajvu8mm2ac" ctime="20121212171405" name="TvMFPfmMriE32YvHYHJAC9SKxXwHMFOEag2jgHQAHi54+vj43iQ+xFAYbnBy+hSL" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="1" id="135911755856bqmq3nww" name="Qf4PNCnPQPIj5jiysR42HABMi2GWfkW6tsBMXmBiVPg=">
+   <node crypt="1" id="135911758060opww86l2" name="yHxVGkzgllDCcqiZUXoXazWl+WvLOEBD">
+    <recordtable>
+     <record dir="1359117661ll8gqxrw0h" crypt="1" url="/tvrMLMq8YSQL0XFhMX2SQc/B3l3fA/pQ1Pip44mLoY6unbrAmG3fzms4Fy+b4djCocLIoWK+0msYsdH7WDnaQ==" tags="Gac4CX0YUL5HaDAe5+al/OtsrQFg+rE8" author="" id="135911766108m8299vf2" ctime="20130125164101" name="Euc6+QS+7XaSv1NNVAAFTci4d3erl3cxN65i29NMlS73aEQa4hOx2ddRqYGSWODGYVVT3+4SjcExGy05JdC+GXGp12FXeO0+" file="text.html"/>
     </recordtable>
    </node>
   </node>
